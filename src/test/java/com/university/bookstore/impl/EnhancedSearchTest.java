@@ -87,7 +87,8 @@ class EnhancedSearchTest {
 
         // Test edge case: 0 years (current year only - 2025)
         List<Material> currentYearMaterials = store.findRecentMaterials(0);
-        assertEquals(0, currentYearMaterials.size());
+        assertEquals(1, currentYearMaterials.size());
+        assertTrue(currentYearMaterials.contains(recentMagazine));
     }
 
     @Test

@@ -933,7 +933,7 @@ dot -V
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/anthonytoyco/bookstore.git
 cd bookstore
 
 # Navigate to source directory
