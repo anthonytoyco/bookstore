@@ -1,12 +1,5 @@
 # Bookstore Management System
 
-[![Java](https://img.shields.io/badge/Java-24+-orange.svg)](https://openjdk.java.net/)
-[![Maven](https://img.shields.io/badge/Maven-3.6+-blue.svg)](https://maven.apache.org/)
-[![JUnit](https://img.shields.io/badge/JUnit-5-green.svg)](https://junit.org/junit5/)
-[![JMH](https://img.shields.io/badge/JMH-Benchmarks-purple.svg)](https://openjdk.java.net/projects/code-tools/jmh/)
-[![Coverage](https://img.shields.io/badge/Coverage-54%25-green.svg)](target/site/jacoco/index.html)
-[![License](https://img.shields.io/badge/License-Educational-lightgrey.svg)](LICENSE)
-
 ## Introduction
 
 We have built a bookstore management system that serves as a learning platform in advanced Java programming and software architecture. This system demonstrates how to create a real-world application that can handle the requirements of a modern bookstore while maintaining clean, maintainable, and extensible code. The project showcases the practical application of fundamental computer science concepts, design patterns, and modern software engineering principles.
